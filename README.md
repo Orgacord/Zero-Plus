@@ -4,6 +4,8 @@ Uploaded for research purposes and so we can develop
 # Requirements
 
 # Credits
-Organon Server Networks 
-Organon | Clay
+```
+Organon Server Networks | User: Clay
+Organon Server Networks | User: Blacklight
 Zero+ Team
+```
