@@ -1,9 +1,12 @@
-# Overview of GXVT
-for Research Development Purposes
-Uploaded for research purposes and so we can develop
-# Requirements
+# Zero+ Programming language
+Copyright © 20011-2022 Zero+ Team / Organon Server Networks. All rights reserved.
 
-# Credits
+See the end of this file for further copyright and license information.
+## Contents
+
+### Requirements
+
+### Credits
 ```
 Organon Server Networks | User: Clay
 Organon Server Networks | User: Blacklight
