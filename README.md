@@ -1,5 +1,5 @@
 ![Screenshot](screenshot.png)
-# Zero+ Programming language
+# **Zero+ Programming language**
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## Index
