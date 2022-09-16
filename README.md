@@ -1,7 +1,6 @@
 # Zero+ Programming language
 Copyright © 20011-2022 Zero+ Team . All rights reserved.
 
-See the end of this file for further copyright and license information.
 ## Index
 - General Information
 - Using Zero+
@@ -10,7 +9,6 @@ See the end of this file for further copyright and license information.
 - What's New
 - Documentation
 - Testing
-- Copyright and License Information
 - Credits
 
 ## General Information
@@ -26,8 +24,6 @@ See the end of this file for further copyright and license information.
 ## Documentation
 
 ## Testing
-
-## Copyright and License Information
 
 ## Credits
 ```
