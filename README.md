@@ -1,5 +1,5 @@
 # Zero+ Programming language
-Copyright © 20011-2022 Zero+ Team . All rights reserved.
+Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## Index
 - General Information
