@@ -1,5 +1,5 @@
 # Overview of GXVT
-Source Code for Research Development Purposes
+for Research Development Purposes
 Uploaded for research purposes and so we can develop
 # Requirements
 
