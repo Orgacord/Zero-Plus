@@ -5,6 +5,7 @@ See the end of this file for further copyright and license information.
 ## Index
 - General Information
 - Using Zero+
+- - Requirements
 - Build Instructions
 - What's New
 - Documentation
