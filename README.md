@@ -4,34 +4,46 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## Index
 - General Information
-- Using Zero+
-  - Requirements
-- Build Instructions
-- What's New
-- Documentation
-- Testing
-- ⚠️ License
-- Credits
+  - Screenshots  
+  - Features
+  - What's New
+- Getting Started
+  - Prerequisites
+  - Installation
+  - Running Tests
+  - Run Locally
+- Usage
+- Roadmap
+- License
+- Contact
 
 ## General Information
 
-## Using Zero+
+### 📷 Screenshots 
 
-### Requirements
+### 🎯 Features
 
-## Build Instructions
+### 🌟 What's New
 
-## What's New
+## 🧰 Getting Started
 
-## Documentation
+### ‼️ Prerequisites
 
-## Testing
+### ⚙️ Installation
+
+### 🧪 Running Tests
+
+### 🏃 Run Locally
+
+## 👀 Usage
+
+## 🧭 Roadmap
 
 ## ⚠️ License
 
-## Credits
+## 🤝 Contact
 ```
-Organon Server Networks | User: Clay
-Organon Server Networks | User: Blacklight
+@Orgacord
+@Brosat
 Zero+ Team
 ```
