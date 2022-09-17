@@ -10,6 +10,7 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 - What's New
 - Documentation
 - Testing
+- ⚠️ License
 - Credits
 
 ## General Information
@@ -25,6 +26,8 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 ## Documentation
 
 ## Testing
+
+## ⚠️ License
 
 ## Credits
 ```
