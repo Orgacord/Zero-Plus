@@ -11,7 +11,6 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
   - Installation
   - Running Tests
 - Usage
-- Roadmap
 - License
 - Contact
 
@@ -30,8 +29,6 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 ### 🧪 Running Tests
 
 ## 👀 Usage
-
-## 🧭 Roadmap
 
 ## ⚠️ License
 
