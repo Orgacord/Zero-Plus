@@ -2,17 +2,17 @@
 # **Zero+ Programming language** ⚠️Not finished⚠️
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
-## Index
+## 📔 Index
 - [General Information](#general-information)
   - [Features](#-features)
-  - [What's New](#-What's-new)
-- [Getting Started]()
-  - [Prerequisites]()
-  - [Installation]()
-  - [Running Tests]()
-- [Usage]()
-- [License]()
-- [Contact]()
+  - [What's New](#-Whats-new)
+- [Getting Started](#-getting-started)
+  - [Prerequisites](#%EF%B8%8F-prerequisites)
+  - [Installation](#%EF%B8%8F-installation)
+  - [Running Tests](#-running-tests)
+- [Usage](#-usage)
+- [License](#%EF%B8%8F-license)
+- [Contact](#-contact)
 ## General Information
 
 ### 🎯 Features
