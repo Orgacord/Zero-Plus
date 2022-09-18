@@ -31,6 +31,7 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 ## 👀 Usage
 
 ## ⚠️ License
+Distributed under the GNU License. See LICENSE.txt for more information.
 
 ## 🤝 Contact
 ```
