@@ -3,7 +3,7 @@
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## Index
-- General Information
+- [General Information](# 🎯 Features)
   - Features
   - What's New
 - Getting Started
