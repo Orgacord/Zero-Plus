@@ -4,8 +4,8 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ## Index
 - General Information
-  - [Features](###dart-features)
-  - What's New
+  - [Features](#dart-features)
+  - [What's New](#star2-What's-new)
 - Getting Started
   - Prerequisites
   - Installation
