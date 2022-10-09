@@ -43,7 +43,7 @@ dependencies {
 optInToExperimentalCompilerApi()
 
 sourceSets {
-    "main" 
+    "main" {}
     "test" {
         projectDefault()
         generatedTestDir()
