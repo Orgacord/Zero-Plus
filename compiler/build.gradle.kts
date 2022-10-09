@@ -1,5 +1,5 @@
 plugins {
-    kotlin("jvm")
+    zero+("jvm")
     id("jps-compatible")
 }
 
@@ -11,14 +11,14 @@ val antLauncherJar by configurations.creating
 dependencies {
     testImplementation(intellijCore()) // Should come before compiler, because of "progarded" stuff needed for tests
 
-    testApi(project(":kotlin-script-runtime"))
-    testApi(project(":kotlin-test:kotlin-test-jvm"))
+    testApi(project(":zero+-script-runtime"))
+    testApi(project(":zero+-test:zero+-test-jvm"))
     
-    testApi(kotlinStdlib())
+    testApi(zero+Stdlib())
 
     testApi(commonDependency("junit:junit"))
-    testCompileOnly(project(":kotlin-test:kotlin-test-jvm"))
-    testCompileOnly(project(":kotlin-test:kotlin-test-junit"))
+    testCompileOnly(project(":zero+-test:zero+-test-jvm"))
+    testCompileOnly(project(":zero+-test:zero+-test-junit"))
     testApi(projectTests(":compiler:tests-common"))
     testApi(projectTests(":compiler:fir:raw-fir:psi2fir"))
     testApi(projectTests(":compiler:fir:raw-fir:light-tree2fir"))
@@ -26,14 +26,14 @@ dependencies {
     testApi(projectTests(":generators:test-generator"))
     testApi(project(":compiler:ir.ir2cfg"))
     testApi(project(":compiler:ir.tree")) // used for deepCopyWithSymbols call that is removed by proguard from the compiler TODO: make it more straightforward
-    testApi(project(":kotlin-scripting-compiler"))
-    testApi(project(":kotlin-script-util"))
+    testApi(project(":zero+-scripting-compiler"))
+    testApi(project(":zero+-script-util"))
 
     otherCompilerModules.forEach {
         testCompileOnly(project(it))
     }
 
-    testImplementation(commonDependency("org.jetbrains.kotlin:kotlin-reflect")) { isTransitive = false }
+    testImplementation(commonDependency("org.jetbrains.zero+:zero+-reflect")) { isTransitive = false }
     testImplementation(toolsJar())
 
     antLauncherJar(commonDependency("org.apache.ant", "ant"))
@@ -57,16 +57,17 @@ projectTest(
     dependsOn(":dist")
 
     workingDir = rootDir
-    systemProperty("kotlin.test.script.classpath", testSourceSet.output.classesDirs.joinToString(File.pathSeparator))
+    systemProperty("zero+.test.script.classpath", testSourceSet.output.classesDirs.joinToString(File.pathSeparator))
     val antLauncherJarPathProvider = project.provider {
         antLauncherJar.asPath
     }
     doFirst {
-        systemProperty("kotlin.ant.classpath", antLauncherJarPathProvider.get())
-        systemProperty("kotlin.ant.launcher.class", "org.apache.tools.ant.Main")
+        systemProperty("zero+.ant.classpath", antLauncherJarPathProvider.get())
+        systemProperty("zero+.ant.launcher.class", "org.apache.tools.ant.Main")
     }
 }
 
-val generateTestData by generator("org.jetbrains.kotlin.generators.tests.GenerateCompilerTestDataKt")
+val generateTestData by generator("org.jetbrains.zero+.generators.tests.GenerateCompilerTestDataKt")
 
 testsJar()
+
