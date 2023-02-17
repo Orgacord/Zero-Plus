@@ -1,40 +1,34 @@
 ![Screenshot](screenshot.png)
-# **Zero+ Programming language** ⚠️Not finished⚠️
+# **Zero+ Programming language**
 Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
-## 📔 Index
-- [General Information](#general-information)
-  - [Features](#-features)
-  - [What's New](#-Whats-new)
-- [Getting Started](#-getting-started)
-  - [Prerequisites](#%EF%B8%8F-prerequisites)
-  - [Installation](#%EF%B8%8F-installation)
-  - [Running Tests](#-running-tests)
-- [Usage](#-usage)
-- [License](#%EF%B8%8F-license)
-- [Contact](#-contact)
+## Index
+- General Information
+- Using Zero+
+  - Requirements
+- Build Instructions
+- What's New
+- Documentation
+- Testing
+- Credits
+
 ## General Information
 
-### 🎯 Features
+## Using Zero+
 
-### 🌟 What's New
+### Requirements
 
-## 🧰 Getting Started
+## Build Instructions
 
-### ‼️ Prerequisites
+## What's New
 
-### ⚙️ Installation
+## Documentation
 
-### 🧪 Running Tests
+## Testing
 
-## 👀 Usage
-
-## ⚠️ License
-Distributed under the [GNU] License. See LICENSE.md for more information.
-
-## 🤝 Contact
+## Credits
 ```
-@Orgacord Discord: Organon#4210
-@Brosat Discord: Blacklight#6719
-Zero+ Team: https://discord.gg/yw7XgDAWXP
+Organon Server Networks | User: Clay
+Organon Server Networks | User: Blacklight
+Zero+ Team
 ```
