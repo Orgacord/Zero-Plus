@@ -10,7 +10,7 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
   - [Prerequisites](#%EF%B8%8F-prerequisites)
   - [Installation](#%EF%B8%8F-installation)
   - [Running Tests](#-running-tests)
-- [Usage](#-usage)
+- [Syntax Example](#-syntax-example)
 - [License](#%EF%B8%8F-license)
 - [Contact](#-contact)
 ## General Information
@@ -27,14 +27,17 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 
 ### 🧪 Running Tests
 
-## 👀 Usage
-
+## 👀 Syntax Example
+```
+// Hello World program in Zero+
+function main() {
+    print("Hello, World!");
+}
+```
 ## ⚠️ License
 Distributed under the [GNU] License. See LICENSE.md for more information.
 
 ## 🤝 Contact
 ```
-@Orgacord Discord: Organon#4210
-@Brosat Discord: Blacklight#6719
 Zero+ Team: https://discord.gg/yw7XgDAWXP
 ```
