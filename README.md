@@ -31,7 +31,7 @@ Copyright © 2011-2022 Zero+ Team . All rights reserved.
 ```
 // Hello World program in Zero+
 function main() {
-    print("Hello, World!");
+    print "Hello World"
 }
 ```
 ## ⚠️ License
